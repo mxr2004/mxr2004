@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Some of my Programming Languages:
+![js](https://github.com/NicerDicer15/NicerDicer15/blob/master/js.png?raw=true)
+![alt text](https://github.com/NicerDicer15/NicerDicer15/blob/master/python.svg?raw=true)
+<!--![alt text](https://github.com/NicerDicer15/NicerDicer15/blob/master/js.png?raw=true)-->
