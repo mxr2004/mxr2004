@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 ## End of the Page - Are you still here?!
 
-<a href="http://valenberg.com"><img src="endofpage.gif" width="100%" /> by Valenberg <p>Support him! He does great work</p>/a>
+<a href="http://valenberg.com"><img src="endofpage.gif" width="100%" /> by Valenberg <p>Support him! He does great work</p></a>
