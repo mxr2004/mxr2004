@@ -37,5 +37,6 @@ Here are some ideas to get you started:
 
 [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicerDicer15&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## End of the Page - Are you still here?!
 
-<a href="http://valenberg.com"><img src="endofpage.gif" width="100%" /> by Valenberg</a>
+<a href="http://valenberg.com"><img src="endofpage.gif" width="100%" /> by Valenberg\nSupport him! He does great work</a>
