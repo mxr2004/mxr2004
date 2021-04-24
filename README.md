@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 
 [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicerDicer15&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![t](endofpage.mp4)
+
+https://user-images.githubusercontent.com/51923646/115954461-7f9cfb00-a4f1-11eb-8b4f-eded19100260.mp4
