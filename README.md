@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 ## 📈 My stats:
 
 [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicerDicer15&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<iframe src="https://giphy.com/embed/97e6IX0kayYTK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/feature-97e6IX0kayYTK">via GIPHY</a></p>
