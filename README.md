@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Languages and Tools:  
 
-<p align="right" width="100"><img src="Night-Coding.gif"></p>
+<img width="100" align="right" src="Night-Coding.gif"></p>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
