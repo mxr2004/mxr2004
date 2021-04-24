@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 **My stats:**
 
-[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicerDicer15)](https://github.com/anuraghazra/github-readme-stats)
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicerDicer15&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
