@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxr2004&theme=gotham)
 ![Marcos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mxr2004&theme=gotham)
 
-![Stats powered by github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">Stats powered by github-readme-stats</a>
 
 ## End of the Page - you are still here?!
 
