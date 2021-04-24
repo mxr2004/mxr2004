@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicerDicer15&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](endofpage.mp4)
+![t](endofpage.mp4)
