@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * <img width="20" src="https://camo.githubusercontent.com/3a1ffef629b1cb43cbb208a22daa20dc8c38ac208ddd041ebe212aec61b35f88/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62612f466c61675f6f665f4765726d616e792e737667"/> I'm from Germany
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
-<p align="right"><img src="Night-Coding.gif"></p>
+<p align="right"><img src="Night-Coding.gif" position="absolute"></p>
 
 ## 🛠️ Languages and Tools:  
 
