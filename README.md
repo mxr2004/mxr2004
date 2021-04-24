@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## 📈 My stats:
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxr2004&theme=gotham&show_icons=true | width=100)
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxr2004&theme=gotham&show_icons=true)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxr2004&theme=gotham)
 ![Marcos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mxr2004&theme=gotham)
 
