@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👨‍💻 About me
-<img width="400" align="right" src="Night-Coding.gif" />
+<a href="https://www.pinterest.de/pin/813533120160853238"><img width="400" align="right" src="Night-Coding.gif" />by Metin Seven</a>
 
 * <img width="20" src="https://camo.githubusercontent.com/3a1ffef629b1cb43cbb208a22daa20dc8c38ac208ddd041ebe212aec61b35f88/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62612f466c61675f6f665f4765726d616e792e737667"/> I'm from Germany
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
