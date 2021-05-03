@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxr2004&theme=gotham&show_icons=true)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxr2004&theme=gotham)
-![Marcos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mxr2004&theme=gotham)
+![Marcos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mxr2004&theme=gotham)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">Stats powered by github-readme-stats</a>
 
